@@ -1,3 +1,3 @@
 # pape-template
 
-I was here yes sir
+I was here
