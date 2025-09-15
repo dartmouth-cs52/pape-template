@@ -1,3 +1,3 @@
 # pape-template
 
-Remove this
+Changing the template with other stuff
